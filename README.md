@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhenrique12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Adhenrique12 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhenrique12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
