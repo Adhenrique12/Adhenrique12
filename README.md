@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently student in **UNICV**
 
-- 🌱 I’m currently learning **Golang, Dart, Gatsby, React and Flutter**
+- 🌱 I’m currently learning **Dart, java, C#, .NET, azure**
 
 - 👯 I’m looking to collaborate with **the communite**
 
 - 🤝 I’m looking for help with **my Club of Programing**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, C#**
 
 - 📫 How to reach me **adeliofonseca.unicv@gmail.com**
 
