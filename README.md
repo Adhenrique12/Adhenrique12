@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I live in a Island and i don't know swim.**
 
-<p><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhenrique12&layout=compact" alt="adhenrique12" /></p>
 
