@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently student in **UNICV**
 
-- 🌱 I’m currently learning **Dart, java, C#, .NET, azure**
+- 🌱 I’m currently learning **Go, rust, C# **
 
 - 👯 I’m looking to collaborate with **the communite**
 
